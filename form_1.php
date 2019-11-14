@@ -32,3 +32,5 @@ if ($proses_data){
 		</tr>
 	</table>
 </form>
+
+<a href="form_2.php"><H1>Nota Pembayaran</H1></a>
