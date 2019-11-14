@@ -52,3 +52,5 @@ if ($proses_data){
 		</tr>
 	</table>
 </form>
+
+<a href="form_1.php"><H1>Kembali ...<<<</H1></a>
