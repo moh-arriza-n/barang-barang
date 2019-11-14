@@ -37,7 +37,7 @@ if ($proses_data){
 		</tr>
 		<tr>
 				<td>QTY</td>
-				<td><input name="QTY" type="number"></td>
+				<td><input name="QTY" type="number" ></td>
 		</tr>
 		<tr>
 				<td>Harga</td>
